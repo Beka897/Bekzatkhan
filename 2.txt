@@ -1,0 +1,31 @@
+<html>
+<head><title>6-шы лабка</head>
+<br>
+<textarea name="address" wrap="virtual" cols="40" rows="3"›Қызылорда облысының әкімшілік құрылымы
+</textarea>
+<form>
+‹select name="Қызылорда облысының әкімшілік құрылымы"›
+ <option› Қазалы ауданы
+coption value="md"»Шиелі ауданы
+coption>Қармакшы ауданы
+<option›Жалағаш ауданы
+coption>Шиелі ауданы
+<option>Қызылорда каласы
+‹option>Байконыр каласы
+‹option selected>Сыдария ауданы
+</select>
+<br>
+<p>
+<label for="name"›Аты-женінізді жазыныз: </label>
+<input id="name" type="text" placeholder="Аты-жөніңіз қалай?" required autofocus> </p> 
+<p>
+<label for="name"›Почтаңызды жазыныз: </label>
+<input id="mail" type="email" placeholder="Почтаныз калай?" required› </p>
+ <p>
+‹input type="submit" value="*iGepy"› ‹input type="reset" value-"eipy">
+</p>
+</form>
+<hr> <p>2022 жыл &copy;Бигелді Бекзатхан </p>
+<br>
+</body>
+</html>
